@@ -7,6 +7,4 @@ The necessary data is located in the "Data" folder and includes a cleaned datase
 ## Scripts
 A script that fulfill the parameters set in the rubric is included in the "Scripts" folder.
 ## Reference Materials
-
-
-Article: Rocheteau, Guillaume, and Murat Tasci. “The Minimum Wage and the Labor Market.” Economic Commentary  (Federal Reserve Bank of Cleveland), 1 May 2007, pp. 1–4, https://doi.org/10.26509/frbc-ec-20070501.
+Two articles that can be used as references are included in the "References" folder
