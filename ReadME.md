@@ -5,6 +5,6 @@ The two attached PDFs include both the Context and Task for the case study as we
 ## Data
 The necessary data is located in the "Data" folder and includes a cleaned dataset to be used for your model.
 ## Scripts
-A script that fulfill the parameters set in the rubric is included in the "Scripts" folder.
+A script that fulfills the parameters set in the rubric is included in the "Scripts" folder.
 ## Reference Materials
 Two articles that can be used as references are included in the "References" folder
