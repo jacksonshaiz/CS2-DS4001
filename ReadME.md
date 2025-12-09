@@ -7,4 +7,4 @@ The necessary data is located in the "Data" folder and includes a cleaned datase
 ## Scripts
 A script that fulfills the parameters set in the rubric is included in the "Scripts" folder.
 ## Reference Materials
-Two articles that can be used as references are included in the "References" folder
+A blog post and a article that can be used as references are included in the "References" folder
